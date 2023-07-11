@@ -80,3 +80,28 @@ body{
     color: rgba(39, 39, 39, 0.60);
     
 }
+.insta > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 60px;
+}
+.insta-title{
+    font-size: 30px;
+    font-weight: 800;
+
+}
+.instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    margin-top: -10px;
+}
+.img-flower{
+    width: 200px;
+    padding: 10px;
+    /* margin-top: 20; */
+}
+.img-section{
+    margin-top: -60px;
+}
