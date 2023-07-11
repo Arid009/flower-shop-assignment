@@ -234,3 +234,63 @@ footer{
 #color-part{
     color: #E55473;
 }
+
+.extra-part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 5px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.flower-pic{
+    display: flex;
+    
+}
+.flower-boxes{
+    margin-right: 20px;
+    background-color: pink;
+    border-radius: 10px;
+}
+.flower-buy1{
+    width:200px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.flower-buy2{
+    width:265px;
+}
+.flower-buy3{
+    width: 200px;
+    
+}
+.flower-boxes1{
+    margin-right: 20px;
+    border: 1px solid pink;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.226);
+}
+.btn-buy{
+    border-radius: 5px;
+    border: none;
+    background-color: #E55473;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+}
+#see-more{
+    margin-top: 30px;
+    padding: 15px 30px;
+    border: 2px solid blue;
+    color: blue;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
